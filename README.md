@@ -10,3 +10,14 @@ When the time runs out, slenderman catches you and it's a game over.
  The last page will require some digging to do..
  
  By the way, don't run in circles...
+
+
+----
+//STILL IN PROGRESS
+Techy part:
+Front:
+JS for all the pretty interactive stuffs
+Back:
+Load game,
+Save game (maybe), 
+highcore leaderboard
