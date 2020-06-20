@@ -79,7 +79,7 @@ h1 {
 }
 
 .menu-button-start:hover {
-	transition: ease-in color 1s;
+	transition: ease-in color 0.5s;
 	color: #c40e0e;
 	/* transition: ease-out  color 1s; */
 	/* animation: glitch 3s infinite alternate-reverse; */
