@@ -1,4 +1,4 @@
-# kcs-v2-project
+# Escape!
 Slendy game
 
 This project aims to create a browser game that "reacts to players browsing patterns" in the website to determine the flow of the game.
