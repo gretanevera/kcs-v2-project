@@ -43,7 +43,7 @@ body {
 	height: 100vh;
 	background-color: black;
 	color: white;
-	background: url("../media/img/forestWithSlendy.png") no-repeat center center fixed;
+	background: url("../media/img/glitchForestWithSlendy.gif") no-repeat center center fixed;
 	background-size: cover;
 	display: flex;
 	align-items: center;
